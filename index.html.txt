@@ -12,26 +12,22 @@
   </header>
 
   <section class="cursos">
-    <h2>Cursos em destaque</h2>
+    <h2>Meu Livro Digital</h2>
     <div class="card">
-      <h3>Curso de Marketing Digital</h3>
-      <p>Aprenda estratégias práticas para vender na internet.</p>
-      <a href="#" class="btn">Ver detalhes</a>
-    </div>
-    <div class="card">
-      <h3>Curso de Copywriting</h3>
-      <p>Descubra como escrever textos que realmente vendem.</p>
-      <a href="#" class="btn">Ver detalhes</a>
+      <h3>Como Vender na Internet com Estratégia</h3>
+      <p>Em breve disponível na Hotmart. Cadastre-se para ser avisado!</p>
+      <a href="#" class="btn desativado">Em breve</a>
     </div>
   </section>
 
-  <section class="ebooks">
-    <h2>Ebooks disponíveis</h2>
-    <div class="card">
-      <h3>Guia de Produtividade</h3>
-      <p>Organize seu tempo e alcance mais resultados no dia a dia.</p>
-      <a href="#" class="btn">Baixar agora</a>
-    </div>
+  <section class="contato">
+    <h2>Fale comigo</h2>
+    <p>
+      <a href="https://wa.me/17813900612" class="btn whatsapp" target="_blank">Fale pelo WhatsApp</a>
+    </p>
+    <p>
+      <a href="https://www.instagram.com/jansanches_digital/" target="_blank">Instagram: @jansanches_digital</a>
+    </p>
   </section>
 
   <footer>
