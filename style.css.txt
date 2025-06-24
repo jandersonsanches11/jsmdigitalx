@@ -1,0 +1,61 @@
+root {
+  --verde-militar #4B5320;
+  --branco #FFFFFF;
+  --dourado #D4AF37;
+  --vermelho #B22222;
+}
+
+body {
+  font-family sans-serif;
+  margin 0;
+  background-color var(--branco);
+  color #333;
+}
+
+header {
+  background-color var(--verde-militar);
+  color var(--branco);
+  text-align center;
+  padding 2rem;
+}
+
+h1 {
+  margin 0;
+}
+
+section {
+  padding 2rem;
+}
+
+.cursos, .ebooks {
+  background-color #f4f4f4;
+}
+
+.card {
+  background-color var(--branco);
+  border 2px solid var(--dourado);
+  border-radius 10px;
+  padding 1rem;
+  margin-bottom 1.5rem;
+}
+
+.btn {
+  display inline-block;
+  padding 10px 20px;
+  background-color var(--vermelho);
+  color var(--branco);
+  text-decoration none;
+  border-radius 5px;
+}
+
+.btnhover {
+  background-color var(--dourado);
+  color #000;
+}
+
+footer {
+  background-color var(--verde-militar);
+  color var(--branco);
+  text-align center;
+  padding 1rem;
+}

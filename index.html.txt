@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>JSM DigitalX - Cursos e Ebooks</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>JSM DigitalX</h1>
+    <p>Transforme seu conhecimento em resultados</p>
+  </header>
+
+  <section class="cursos">
+    <h2>Cursos em destaque</h2>
+    <div class="card">
+      <h3>Curso de Marketing Digital</h3>
+      <p>Aprenda estratégias práticas para vender na internet.</p>
+      <a href="#" class="btn">Ver detalhes</a>
+    </div>
+    <div class="card">
+      <h3>Curso de Copywriting</h3>
+      <p>Descubra como escrever textos que realmente vendem.</p>
+      <a href="#" class="btn">Ver detalhes</a>
+    </div>
+  </section>
+
+  <section class="ebooks">
+    <h2>Ebooks disponíveis</h2>
+    <div class="card">
+      <h3>Guia de Produtividade</h3>
+      <p>Organize seu tempo e alcance mais resultados no dia a dia.</p>
+      <a href="#" class="btn">Baixar agora</a>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 JSM DigitalX. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
